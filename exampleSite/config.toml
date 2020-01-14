@@ -1,4 +1,4 @@
-baseURL = "https://polyflora.netlify.com"
+baseURL = "https://polyflora-test.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = []

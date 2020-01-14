@@ -5,7 +5,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "20"
-theme = "hugo-theme-terminal"
+theme = "airspace-hugo"
 title = "The Oneironaut"
 [Languages.en]
 contentDir = "content/english"
